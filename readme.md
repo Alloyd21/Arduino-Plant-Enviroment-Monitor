@@ -21,4 +21,5 @@ A simple environment monitor built on Arduino using DHT11 sensors and LDR to dis
 [DHT11](https://github.com/adidax/dht11)
 
 
+# Wiring Diagram
 ![Wiring diagram with 4 wire LCD](https://github.com/Alloyd21/Arduino-Plant-Enviroment-Monitor/blob/main/PlantMonitor_With_LCD.png?raw=true)
