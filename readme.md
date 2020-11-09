@@ -15,5 +15,7 @@ A simple environment monitor built on Arduino using DHT11 sensors and LDR to dis
 
 # Required Libraries 
 [BretStateham RGB LED](https://github.com/joemccann/dillinger/blob/master/KUBERNETES.md)
+
 [LiquidCrystal_I2C](https://github.com/johnrickman/LiquidCrystal_I2C)
+
 [DHT11](https://github.com/adidax/dht11)
