@@ -19,3 +19,6 @@ A simple environment monitor built on Arduino using DHT11 sensors and LDR to dis
 [LiquidCrystal_I2C](https://github.com/johnrickman/LiquidCrystal_I2C)
 
 [DHT11](https://github.com/adidax/dht11)
+
+
+![Wiring diagram with 4 wire LCD](https://github.com/Alloyd21/Arduino-Plant-Enviroment-Monitor/blob/main/PlantMonitor_With_LCD.png?raw=true)
